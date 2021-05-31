@@ -138,7 +138,7 @@ ll counting(ll x)
 
 int main()
 {
-	faster();
+// 	faster();
 	Begin()
 	{
 		ll a;
